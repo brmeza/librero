@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-// Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
-// then press Enter. You can now see whitespace characters in your code.
-public class Main {
-
-    public static void main(String[] args) {
-        Raices r1 = new Raices(1.0, 4.0, 4.0);
-        r1.calcular();
-=======
 import java.io.PrintStream;
 
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
@@ -36,7 +27,5 @@ public class Main {
             var10001 = lib2.getTitulo();
             var10000.println("el libro " + var10001 + " tiene mas paginas que el libro " + lib1.getTitulo());
         }
-
->>>>>>> 0437fe3240428e86484ce932daad1d60766545fe
     }
 }
